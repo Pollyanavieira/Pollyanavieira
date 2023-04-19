@@ -36,4 +36,3 @@
   
 </div>
 
-![Snake animation](https://github.com/Pollyanavieira/Pollyanavieira/blob/output/github-contribution-grid-snake.svg)
