@@ -32,14 +32,14 @@ Olá! Sou a Pollyana, estudante de Ciência de Dados com formação prevista par
 ---
 
 ### 📂 Projetos em destaque
-
+<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 ✨ *Em breve, links reais!*  
 🔗 Exemplos planejados:
 - 📊 **Análise Exploratória com Pandas** – Estudo completo de dados públicos  
 - 🧠 **Mini IA para Classificação de Risco de Crédito**  
 - 💰 **Case de Insights com Dados Financeiros**
 
-<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
 
 ---
 
