@@ -83,6 +83,6 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/1cK57XhFaOS43WOmQW/giphy.gif" width="200" alt="Robot coding" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Keep pushing forward" />
 
 </p>
