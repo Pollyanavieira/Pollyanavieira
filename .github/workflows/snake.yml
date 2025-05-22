@@ -11,13 +11,14 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: pollyanavieira
           outputs: dist/github-contribution-grid-snake.svg
+          target_branch: dist
 
       - name: Configure Git
         run: |
