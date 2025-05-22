@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pollyanavieira/" target="_blank">
+  <a href="https://www.linkedin.com/in/pollyana-souza-vieira-12b09b237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -17,7 +17,8 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ### 📚 Sobre mim
 
@@ -34,11 +35,10 @@ Olá! Sou a Pollyana, estudante de Ciência de Dados com formação prevista par
 ### 📂 Projetos em destaque
 
 ✨ *Em breve, links reais!*  
-🔗 Deixe os repositórios visíveis e com README detalhado!
-
+🔗
 - 📊 **Análise Exploratória com Pandas** – Estudo completo de dados públicos
 - 🧠 **Mini IA para Classificação de Risco de Crédito**
-- 💰 **Case de Insights com Dados Financeiros (Estilo Serasa)**
+- 💰 **Case de Insights com Dados Financeiros**
 
 ---
 
@@ -54,10 +54,12 @@ Olá! Sou a Pollyana, estudante de Ciência de Dados com formação prevista par
 ### 💬 Vamos nos conectar?
 
 Se você é de uma empresa que valoriza inovação, tecnologia e propósito, será um prazer trocar ideias!  
-📫 Me encontra no [LinkedIn](https://www.linkedin.com/in/pollyana-souza-vieira-12b09b237/)  
+📫 Me encontra no [LinkedIn](https://www.linkedin.com/in/pollyanavieira/)  
 📌 Ou explore meus projetos aqui no GitHub!
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F772A1&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+de+Dados+%F0%9F%93%88;Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Ap
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F772A1&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+de+Dados+%F0%9F%93%88;Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Aprendizado+Cont%C3%ADnuo+%F0%9F%8C%B1;Tecnologia+com+Prop%C3%B3sito+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+
