@@ -43,6 +43,15 @@ Estudante de Ciência de Dados com previsão de graduação em **2027**, focando
 
 ---
 
+### 🚀 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pollyanavieira&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pollyanavieira&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🌱 Sempre aprendendo
 
 - 📊 Estatística aplicada  
@@ -62,4 +71,8 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=FF6F91&center=true&vCenter=true&width=480&lines=Ci%C3%AAncia+de+Dados+%F0%9F%93%88;Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Aprendizado+Cont%C3%ADnuo+%F0%9F%8C%B1;Tecnologia+com+Prop%C3%B3sito+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Keep coding!" />
 </p>
