@@ -52,14 +52,10 @@ Estudante de Ciência de Dados com previsão de graduação em **2027**, focando
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="center">🐍 Snake de Contribuições</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pollyanavieira&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanavieira&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github.com/pollyanavieira/pollyanavieira/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
