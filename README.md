@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    # 👩‍💻 Pollyana Vieira
+👩‍💻 Pollyana Vieira
 
 🎯 Estudante de Ciência de Dados | Foco em Inteligência Artificial  
 📊 Apaixonada por transformar dados em decisões estratégicas  
@@ -10,7 +10,7 @@
   </h1>
   
   <p align="center">
-    ### 📚 Sobre mim
+ 📚 Sobre mim
 
 Sou estudante de Ciência de Dados com formação prevista para 2027 e venho construindo uma jornada focada em análise de dados, Python e fundamentos de Inteligência Artificial.
 
