@@ -83,6 +83,6 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="200" alt="Tech animation" />
+<img src="https://media.giphy.com/media/3ohzdUxiE48mXMBFFm/giphy.gif" width="200" alt="Data visualization" />
 
 </p>
