@@ -54,8 +54,9 @@ Estudante de Ciência de Dados com previsão de graduação em **2027**, focando
 
 ### 📅 Calendário de contribuições
 
+<h3 align="center">📅 Meu calendário de contribuições</h3>
 <p align="center">
-  <img src="https://github-readme-calendar.vercel.app/api?username=pollyanavieira&theme=dark" alt="GitHub Contribution Calendar" />
+  <img src="https://github-readme-calendar.vercel.app/api?username=pollyanavieira&theme=dark" alt="Calendário de Contribuições" />
 </p>
 
 ---
