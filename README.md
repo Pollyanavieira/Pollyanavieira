@@ -18,7 +18,7 @@
 ---
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
 <img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 
@@ -65,3 +65,4 @@ Se você é de uma empresa que valoriza inovação, tecnologia e propósito, ser
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F772A1&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+de+Dados+%F0%9F%93%88;Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Aprendizado+Cont%C3%ADnuo+%F0%9F%8C%B1;Tecnologia+com+Prop%C3%B3sito+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
