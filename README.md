@@ -83,6 +83,6 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 
 <p align="center">
   
-<img src="https://media.giphy.com/media/XJQF02uI9Ty3a/giphy.gif" width="200" alt="Digital Brain AI" />
+<img src="https://media.giphy.com/media/3o7TKsQ6UrsKje5Fvy/giphy.gif" width="200" alt="Neural Network Animation" />
 
 </p>
