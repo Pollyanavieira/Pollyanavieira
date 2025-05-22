@@ -83,6 +83,6 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/3o7qE7qjKPlUKlADzO/giphy.gif" width="200" alt="Data Science Animation" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Coding animation" />
 
 </p>
