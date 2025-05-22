@@ -82,5 +82,6 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Keep coding!" />
+  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="200" alt="Coding Vibes" />
+
 </p>
