@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pollyana-souza-vieira-12b09b237/" target="_blank">
+  <a href="https://www.linkedin.com/in/pollyanavieira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,11 +18,6 @@
 ---
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-
-
 
 ### 📚 Sobre mim
 
@@ -39,9 +34,9 @@ Olá! Sou a Pollyana, estudante de Ciência de Dados com formação prevista par
 ### 📂 Projetos em destaque
 
 ✨ *Em breve, links reais!*  
-🔗
-- 📊 **Análise Exploratória com Pandas** – Estudo completo de dados públicos
-- 🧠 **Mini IA para Classificação de Risco de Crédito**
+🔗 Exemplos planejados:
+- 📊 **Análise Exploratória com Pandas** – Estudo completo de dados públicos  
+- 🧠 **Mini IA para Classificação de Risco de Crédito**  
 - 💰 **Case de Insights com Dados Financeiros**
 
 ---
