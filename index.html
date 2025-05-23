@@ -7,10 +7,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --primary-color: #7f5af0;
-      --bg-color: #16161a;
-      --text-color: #fffffe;
-      --accent-color: #72757e;
+      --primary-color: #005F60; /* Verde-petróleo escuro */
+      --secondary-color: #C28700; /* Mostarda queimado */
+      --background-color: #F2F2F2; /* Cinza claro suave */
+      --light-color: #FFFFFF; /* Branco */
+      --text-color: #1A1A1A; /* Preto suave */
+      --accent-color: #DAA520; /* Dourado suave */
     }
 
     * {
@@ -21,24 +23,25 @@
 
     body {
       font-family: 'Fira Code', monospace;
-      background-color: var(--bg-color);
+      background-color: var(--background-color);
       color: var(--text-color);
       line-height: 1.6;
+      margin: 0;
     }
 
     header {
       text-align: center;
       padding: 4rem 2rem;
       background-color: var(--primary-color);
+      color: var(--light-color);
     }
 
     header h1 {
-      font-size: 2.5rem;
+      font-size: 2.8rem;
     }
 
     header p {
       font-size: 1.2rem;
-      color: var(--text-color);
       margin-top: 0.5rem;
     }
 
@@ -56,29 +59,57 @@
 
     ul li {
       margin-bottom: 0.8rem;
+      padding-left: 1rem;
+      position: relative;
+    }
+
+    ul li::before {
+      content: '✦';
+      color: var(--secondary-color);
+      position: absolute;
+      left: 0;
     }
 
     a {
-      color: #ff8906;
+      color: var(--primary-color);
       text-decoration: none;
-    }
-
-    footer {
-      text-align: center;
-      padding: 2rem;
-      background-color: #1a1a1a;
-      color: var(--accent-color);
+      font-weight: bold;
     }
 
     .button {
-      background: #7f5af0;
-      color: #fff;
+      background: var(--secondary-color);
+      color: var(--light-color);
       padding: 0.8rem 1.5rem;
       border: none;
       border-radius: 8px;
       font-weight: bold;
       margin-top: 1rem;
       display: inline-block;
+      transition: background 0.3s;
+    }
+
+    .button:hover {
+      background: var(--accent-color);
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background-color: var(--primary-color);
+      color: var(--light-color);
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      header p, h2 {
+        font-size: 1rem;
+      }
+      .button {
+        font-size: 0.9rem;
+        padding: 0.6rem 1.2rem;
+      }
     }
   </style>
 </head>
