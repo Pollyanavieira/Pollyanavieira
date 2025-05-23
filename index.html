@@ -5,20 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pollyana Vieira | Portfólio</title>
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css" />
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
+  <header data-aos="fade-down">
     <h1>👩‍💻 Pollyana Vieira</h1>
     <p>Estudante de Ciência de Dados & IA | Criando com Propósito</p>
   </header>
 
-  <section>
+  <section data-aos="fade-up">
     <h2>Sobre mim</h2>
     <p>Sou estudante de Ciência de Dados com foco em Inteligência Artificial. Estou construindo projetos com Python, Pandas, Scikit-learn e visualização de dados. Meu objetivo é conectar tecnologia com impacto positivo.</p>
   </section>
 
-  <section>
+  <section data-aos="fade-up" data-aos-delay="100">
     <h2>Projetos em destaque</h2>
     <ul>
       <li><strong>📊 Análise Exploratória com Pandas</strong> - estudo de dados públicos</li>
@@ -27,14 +28,19 @@
     </ul>
   </section>
 
-  <section>
+  <section data-aos="fade-up" data-aos-delay="200">
     <h2>Contato</h2>
     <p>Vamos conversar sobre projetos e oportunidades!</p>
     <a class="button" href="https://www.linkedin.com/in/pollyanavieira/" target="_blank">💼 Conecte-se comigo no LinkedIn</a>
   </section>
 
-  <footer>
+  <footer data-aos="fade-up" data-aos-delay="300">
     <p>&copy; 2025 Pollyana Vieira | Portfólio criado com GitHub Pages</p>
   </footer>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>
