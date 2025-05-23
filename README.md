@@ -84,9 +84,5 @@ Se você valoriza inovação, tecnologia e propósito, vamos conversar!
 <p align="center">
   
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding AI" />
-<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200" alt="Digital Brain AI" />
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Futuristic Data" />
-
-
 
 </p>
