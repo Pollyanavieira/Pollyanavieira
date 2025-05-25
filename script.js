@@ -1,18 +1,19 @@
 // Animação simples reveal on scroll
-function revealOnScroll() {
-  const reveals = document.querySelectorAll('.reveal');
-  reveals.forEach(el => {
-    const windowHeight = window.innerHeight;
-    const elementTop = el.getBoundingClientRect().top;
-    const revealPoint = 150;
+const reveals = document.querySelectorAll('.reveal');
+const observer = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('active'); // <-- aqui a animação começa
+        observer.unobserve(entry.target); // Para performance
+      }
+    });
+  },
+  { threshold: 0.1 }
+);
 
-    if (elementTop < windowHeight - revealPoint) {
-      el.classList.add('active');
-    } else {
-      el.classList.remove('active');
-    }
-  });
-}
+reveals.forEach((reveal) => observer.observe(reveal));
+
 
 // Botão de voltar ao topo
 const backToTopButton = document.querySelector('.back-to-top');
