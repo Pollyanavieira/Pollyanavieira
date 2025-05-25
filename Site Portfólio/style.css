@@ -248,13 +248,16 @@ section h2 {
 
 /* Classe para efeito flutuante */
 .hover-lift {
-  transition: transform 0.1s ease, box-shadow 0.1s ease; /* Transições suaves */
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Suaviza transformações e sombra */
+  will-change: transform, box-shadow; /* Melhora performance ao antecipar mudanças */
+  transform: translateY(-8px); /* Move o elemento 8px para cima */
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15); /* Adiciona sombra suave ao redor */
 }
 
 /* Hover que levanta e adiciona sombra */
 .hover-lift:hover {
-  transform: translateY(-10px); /* Levanta 10px */
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Sombra mais forte */
+  transform: translateY(-10px); /* Levanta o elemento 10px ao passar o mouse */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Aplica uma sombra levemente mais forte */
 }
 
 /* Imagem do projeto */
