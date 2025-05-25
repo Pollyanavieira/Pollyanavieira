@@ -222,7 +222,7 @@ section h2 {
 
 /* Classe reutilizável para efeito flutuante */
 .hover-lift {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
 }
 
 .hover-lift:hover {
