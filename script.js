@@ -1,3 +1,11 @@
+/* class em-breve nos botões dos portfolio */
+document.querySelectorAll('.em-breve').forEach((botao) => {
+  botao.addEventListener('click', (e) => {
+    e.preventDefault(); // Impede o redirecionamento
+    alert('🔒 Em breve: este conteúdo ainda não está disponível.');
+  });
+});
+
 // Animação simples reveal on scroll
 const reveals = document.querySelectorAll('.reveal');
 const observer = new IntersectionObserver(
@@ -50,3 +58,4 @@ document.addEventListener('mousemove', (e) => {
 
 window.addEventListener('scroll', revealOnScroll);
 window.addEventListener('load', revealOnScroll);
+
