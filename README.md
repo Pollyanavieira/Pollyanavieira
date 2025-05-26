@@ -73,7 +73,7 @@ Estudante de Ciência de Dados com previsão de graduação em **2027**, focando
 
 Se você valoriza inovação, tecnologia e propósito, vamos conversar!  
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/pollyanavieira/)  
-📌 E explore meus projetos por aqui no GitHub!
+📌 E explore meus projetos por aqui no GitHub!!
 
 ---
 
