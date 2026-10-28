@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Pollyana Vieira</h1>
 
 <p align="center">
-🎯 <b>Estudante de Ciência de Dados</b> | Foco em <b>Inteligência Artificial</b> 🤖<br>
+🎯 <b>Estudante de Banco de Dados</b> | Foco em <b>Inteligência Artificial</b> 🤖<br>
 📊 Transformando dados em decisões estratégicas que geram impacto real 💡<br>
 🚀 Em busca de oportunidades que unam <i>tecnologia, impacto social</i> e <i>inovação</i> 🌟
 </p>
